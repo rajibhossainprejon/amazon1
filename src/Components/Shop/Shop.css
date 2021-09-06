@@ -1,0 +1,19 @@
+.shop-container{
+    display: flex;
+}
+
+.product-container{
+    
+    width: 80%;
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 5px;
+    padding-right: 10px;
+    border-right: 1px solid lightblue;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    grid-gap: 10px 10px;
+}
+.cart-container{
+    margin: 18px;
+}

@@ -1,0 +1,9 @@
+.cardList {
+display: inline-block;
+width: 50%;
+height: 100%;
+margin-right:10px;
+padding: 0px;
+border-right: 2px solid #D6DBDF ;
+border-style: none dashed none none;
+}
